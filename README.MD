@@ -1,6 +1,6 @@
 项目名称：龙蜥社区软件仓库支持国密算法校验  
 项目链接：https://github.com/openanolis  
-导师信息：{请补充：霍文，15165077960，huowen@ieisystem.com}  
+导师信息：{霍文，15165077960，huowen@ieisystem.com}  
 难度：中  
 分类：系统安全/软件供应链  
 
